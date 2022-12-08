@@ -1,0 +1,88 @@
+{
+  "homePageMeta": {
+    "title": "React Resume Template",
+    "description": "Example site built with Tim Baker's react resume template",
+    "id": 1
+  },
+  "introData": {
+    "id": "1",
+    "name": "I'm Ali Nouri",
+    "descriptionPart1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, beatae? Vitae, veritatis possimus, rerum quo eaque doloremque, accusamus amet velit beatae adipisci distinctio nam nemo! Repudiandae aut laboriosam quaerat voluptatum.",
+    "descriptionPart2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, beatae? Vitae, veritatis possimus, rerum quo eaque doloremque, accusamus amet velit beatae adipisci distinctio nam nemo! Repudiandae aut laboriosam quaerat voluptatum.",
+    "gitHubLink": "https://github.com/ItGTeam/",
+    "InstaLink": "https://github.com/ItGTeam/",
+    "FaceBookLink": "https://github.com/ItGTeam/",
+    "LinkedInLink": "https://github.com/ItGTeam/",
+    "twitterLink": "https://github.com/ItGTeam/"
+  },
+  "aboutMeData": {
+    "id": "1",
+    "description": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "Location": "Iran,ESf",
+    "Nationality": "Iranian",
+    "Study": "Computer/Engineering",
+    "Age": "20",
+    "Interests": "Basketball",
+    "Employment": "None",
+    "ImgUrl": "Prof.jpg"
+  },
+  "resumeData": {
+    "id": "1",
+    "educationTitle": "Masters in Beer tasting",
+    "educationPlace": "Clown college",
+    "educationDate": "April 2007",
+    "educationDiscription": "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+    "workTitle": "Junior UX Engineer",
+    "workPlace": "Awesome Development Company",
+    "workDate": "March 2010 - Present",
+    "workDiscription": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+  },
+  "skillsFrontendDevelopment": {
+    "JavaScript": 70,
+    "React": 50,
+    "bootstrap": 80
+  },
+  "skillsSpokenLanguages": {
+    "Persian": 100,
+    "English": 50,
+    "Arabic": 20
+  },
+  "skillsBackendDevelopment": {
+    "AspNetCore": 70,
+    "NodeJs": 50,
+    "Mvc": 70
+  },
+  "testimonialsData": [
+    {
+      "id": "1",
+      "active":"active",
+      "imgUlr": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg",
+      "name": " John Doe",
+      "testimonials": "Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.",
+      "job": "Web Developer / SoftBee"
+    },
+    {
+      "id": "2",
+      "active":"",
+      "imgUlr": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg",
+      "name": "SomeBody Else",
+      "testimonials": "Use this as an opportunity to promote what it is like to work with you. High value testimonials include ones from current or past co-workers, managers, or from happy clients.",
+      "job": "FrontEnd Developer / SoftBee"
+    },
+    {
+      "id": "3",
+      "active":"",
+      "imgUlr": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg",
+      "name": " John Doe",
+      "testimonials": "Here you should write some nice things that someone has said about you. Encourage them to be specific and include important details (notes about a project you were on together",
+      "job": "FrontEnd Developer / SoftBee"
+    }
+  ],
+  "contactData": {
+    "id": "1",
+    "email": "Afreelancer15@gmail.com",
+    "instaId": "@alinouri__",
+    "githubId": "ItGTeam",
+    "discripton": "Here is a good spot for a message to your readers to let them know how best to reach out to you."
+  }
+}
